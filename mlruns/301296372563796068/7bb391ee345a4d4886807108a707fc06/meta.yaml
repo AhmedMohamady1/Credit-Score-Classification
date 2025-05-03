@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ahmedmohamady/University/Data%20Computation%20Project/Credit-Score-Classification/mlruns/301296372563796068/7bb391ee345a4d4886807108a707fc06/artifacts
+end_time: 1746291287290
+entry_point_name: ''
+experiment_id: '301296372563796068'
+lifecycle_stage: active
+run_id: 7bb391ee345a4d4886807108a707fc06
+run_name: SVM_run
+run_uuid: 7bb391ee345a4d4886807108a707fc06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746291285380
+status: 3
+tags: []
+user_id: ahmedmohamady
